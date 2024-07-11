@@ -48,9 +48,9 @@ k6 allows developers to write load tests in JavaScript, making it accessible and
 
 By incorporating k6 into your testing strategy, you can:
 
-    Verify the performance and reliability of your application under load.
-    Identify and resolve performance bottlenecks before they impact users.
-    Ensure that your Kubernetes autoscaling policies are effective and responsive.
+1. Verify the performance and reliability of your application under load.
+2. Identify and resolve performance bottlenecks before they impact users.
+3. Ensure that your Kubernetes autoscaling policies are effective and responsive.
 
 Load testing with k6 is essential for delivering a robust and scalable application that can handle real-world usage scenarios.
 
