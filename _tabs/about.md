@@ -63,4 +63,3 @@ I also achieved a first-class degree for my undergraduate studies, where I explo
 When I'm not immersed in technology, I love attending live music events and playing the guitar. I'm also an avid skier and snowboarder, and I enjoy hiking and climbing.
 
 Feel free to connect with me on [GitHub](https://github.com/jonathanjhunt) or reach out via [email](mailto:jonathan.james.hunt@outlook.com). I'm always excited to discuss new opportunities and collaborations!
-```
