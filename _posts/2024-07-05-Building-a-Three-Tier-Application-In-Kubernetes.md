@@ -67,12 +67,13 @@ Clone this repo and you can:
 
 
 ## Prerequisites
-|Service  | Requirement | Link |
-|--|--|--|
-| **Minikube** | Minikube allows you to run a kubernetes cluster using docker containers inside your local environment. This is the chosen tool for hosting the application. |https://minikube.sigs.k8s.io/docs/start/?arch=%2Fmacos%2Fx86-64%2Fstable%2Fbinary+download|
-| **Helm** | Helm is a package manager for kubernetes environments. It is used in this installation to install Prometheus & Grafana, the monitoring tool of choice. | https://helm.sh/docs/intro/install/ |
-| **Docker** | Docker is used to run the underlying containers that Minikube is launched on. Without the docker engine, minikube will be unable to start. You can choose to install Docker Desktop, or just the Docker Engine |https://docs.docker.com/engine/install/ |
-|**K6**|K6 is a Load-Testing tool designed for kubernetes, built by Grafana Labs. It is used in this application to simulate load on the pods.|https://grafana.com/oss/k6/?src=k6io|
+
+| Service     | Requirement                                                                                                      | Link                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Minikube    | Minikube allows you to run a Kubernetes cluster using Docker containers inside your local environment.           | [Minikube Documentation](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fmacos%2Fx86-64%2Fstable%2Fbinary+download)    |
+| Helm        | Helm is a package manager for Kubernetes environments. It is used in this installation to install Prometheus & Grafana, the monitoring tool of choice. | [Helm Documentation](https://helm.sh/docs/intro/install/)                                                             |
+| Docker      | Docker is used to run the underlying containers that Minikube is launched on. Without the Docker engine, Minikube will be unable to start. You can choose to install Docker Desktop, or just the Docker Engine. | [Docker Documentation](https://docs.docker.com/engine/install/)                                                       |
+| K6          | K6 is a load-testing tool designed for Kubernetes, built by Grafana Labs. It is used in this application to simulate load on the pods. | [K6 Documentation](https://grafana.com/oss/k6/?src=k6io)                                                               |
 
 
 ## Setup & Instructions
@@ -290,6 +291,3 @@ spec:
 | maxReplicas  | maximum number of pods for the application labelled "frontend"   |
 | targetCPUUtilizationPercentage | the target CPU for pods to remain at. |
 
-
-
-## 
