@@ -4,7 +4,6 @@ title: "Building a 3-tier application to demonstrate Kubernetes Pod Autoscaling"
 subtitle: "React, Express, Mongo, K8s, Prometheus, Grafana, K6"
 date: 2024-07-05 13:45:13 -0000
 description: "React, Express, Mongo, K8s, Prometheus, Grafana, K6"
-author: Jonathan Hunt
 categories: [Guides]
 tags: [DevOps, SRE, kubernetes, React, Express, Mongo, Prometheus, Grafana, K6]
 pin: true
@@ -12,12 +11,15 @@ math: true
 mermaid: true
 image:
   path: /assets/img/posts/kubernetes.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  lqip: /assets/img/posts/kubernetes_sqip.svg
   alt: Kubernetes - An Orchestration Tool for Containerised Applications
 ---
 
 
 # Three Tier Web App - K8s | React | Express | Prometheus | Grafana | K6
+
+
+## Effortless Scaling: Mastering Kubernetes, React, and Express for Web Apps
 
 
 In the ever-evolving landscape of web applications, ensuring robust performance and scalability is crucial. Kubernetes has emerged as a powerful orchestration tool, revolutionizing the way developers deploy, manage, and scale containerized applications. Its ability to automatically scale in and out based on load and demand makes it an essential technology for modern web applications.
@@ -30,7 +32,7 @@ For the backend, Express.js is a minimal and flexible Node.js web application fr
 
 Together, React and Express form a powerful duo for building scalable, efficient, and high-performance web applications. This guide will walk you through setting up a three-tier web application using these technologies, deployed on a Kubernetes cluster. You'll experience firsthand the autoscaling capabilities of Kubernetes, ensuring your application can handle varying loads with ease.
 
-# Monitoring with Prometheus and Grafana
+## Monitoring with Prometheus and Grafana
 
 Effective monitoring is crucial in maintaining the health and performance of applications running in Kubernetes. Prometheus and Grafana are an exemplary combination for this purpose.
 
@@ -40,7 +42,7 @@ Grafana complements Prometheus by providing a robust platform for visualizing an
 
 Together, Prometheus and Grafana form a comprehensive monitoring solution that helps ensure the reliability and efficiency of applications deployed on Kubernetes.
 
-# Load Testing with k6
+## Load Testing with k6
 
 Ensuring that an application can handle expected load and performance requirements is a critical aspect of development. k6 is an open-source load testing tool that is both powerful and easy to use, making it an excellent choice for testing web applications.
 
@@ -54,7 +56,7 @@ By incorporating k6 into your testing strategy, you can:
 
 Load testing with k6 is essential for delivering a robust and scalable application that can handle real-world usage scenarios.
 
-# Get Started
+## Get Started
 
 Clone this repo and you can:
 1. Build the app with one install/run script.

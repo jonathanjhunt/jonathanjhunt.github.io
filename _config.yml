@@ -29,7 +29,7 @@ github:
   username: jonathanjhunt # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: jonjameshunt # change to your twitter username
 
 social:
   # Change to your full name.
@@ -63,7 +63,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: jonathanhuntsre
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
