@@ -6,7 +6,7 @@ date: 2024-07-05 13:45:13 -0000
 description: "React, Express, Mongo, K8s, Prometheus, Grafana, K6"
 categories: [Guides]
 tags: [DevOps, SRE, kubernetes, React, Express, Mongo, Prometheus, Grafana, K6]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
