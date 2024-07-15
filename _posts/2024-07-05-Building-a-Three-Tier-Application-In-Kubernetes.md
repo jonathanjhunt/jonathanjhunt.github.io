@@ -58,7 +58,15 @@ Load testing with k6 is essential for delivering a robust and scalable applicati
 
 ## Get Started
 
-Clone this repo and you can:
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
+> The repo containing the application code and start script can be found at:
+[jonathanjhunt/3-tier-app-with-k8s](https://github.com/jonathanjhunt/3-tier-app-with-k8s)
+{: .prompt-info }
+
+<!-- markdownlint-restore -->
+
 1. Build the app with one install/run script.
 2. Run load tests using [k6](https://k6.io)
 3. View the cluster performance metrics in [Grafana](https://grafana.com)
