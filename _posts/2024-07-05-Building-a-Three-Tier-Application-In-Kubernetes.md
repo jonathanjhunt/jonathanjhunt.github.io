@@ -8,6 +8,7 @@ categories: [Guides]
 tags: [DevOps, SRE, kubernetes, React, Express, Mongo, Prometheus, Grafana, K6]
 pin: false
 math: true
+comments: true
 mermaid: true
 image:
   path: /assets/img/posts/kubernetes.png

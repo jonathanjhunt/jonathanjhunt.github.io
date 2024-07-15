@@ -7,6 +7,7 @@ description: "Use serverless computing with AWS Lambda to process your Serenity/
 categories: [Guides]
 tags: [DevOps, SRE, monitoring, cucumber, serenity, aws, lambda, cloudwatch]
 pin: false
+comments: true
 math: true
 mermaid: true
 image:
