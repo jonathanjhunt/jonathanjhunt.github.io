@@ -302,3 +302,9 @@ spec:
 | maxReplicas  | maximum number of pods for the application labelled "frontend"   |
 | targetCPUUtilizationPercentage | the target CPU for pods to remain at. |
 
+
+## Conclusion
+
+Well done if you made it this far. 
+
+Make sure to check out part 2 of this project here {add link} where I shift this application to cloud with Terraform & GitHub Actions.
