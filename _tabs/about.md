@@ -35,7 +35,7 @@ In my current role, I've had the opportunity to work on a variety of exciting pr
 
 I've also created Ansible scripts to ensure consistent configuration across test environments, led interview and selection processes for SREs and AREs, and successfully migrated On-Call processes to ServiceNow. One of my key achievements includes developing an automated version tracking tool with GitHub Actions, improving code integration processes and reducing costs.
 
-Taking complete ownership of a previously outsourced tech stack within a short period and serving as a Subject Matter Expert (SME) for core applications has been a highlight of my career. I have collaborated closely with colleagues to troubleshoot and resolve production-level incidents, worked alongside other teams to carry out overnight releases and patching, and developed detailed, real-time monitoring with AppDynamics to improve application reliability and uptime.
+Taking complete ownership of a previously outsourced tech stack within a short period and serving as a Subject Matter Expert (SME) for core applications is a demonstration of my ability to adapt and learn under difficult circumstances. I have collaborated closely with colleagues to troubleshoot and resolve production-level incidents, worked alongside other teams to carry out overnight releases and patching, and developed detailed, real-time monitoring with AppDynamics to improve application reliability and uptime.
 
 
 
